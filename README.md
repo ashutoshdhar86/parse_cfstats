@@ -1,4 +1,4 @@
-# parse_cfstats.sh
+# parse_cfstats
 These scripts will parse Cassandra's cfstats output to give you a sorted single line output for each table.
  - NOTE: Place this script where the cfstats output resides.
 
